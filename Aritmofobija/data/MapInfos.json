@@ -16,6 +16,7 @@ null,
 {"id":13,"expanded":true,"name":"MAP013","order":15,"parentId":11,"scrollX":811,"scrollY":461.5},
 {"id":14,"expanded":true,"name":"Bathroom1","order":16,"parentId":1,"scrollX":819,"scrollY":498.5},
 {"id":15,"expanded":true,"name":"Library1","order":17,"parentId":1,"scrollX":728,"scrollY":396.6666666666667},
+<<<<<<< HEAD
 {"id":16,"expanded":false,"name":"Paskal perfect","order":10,"parentId":8,"scrollX":816,"scrollY":624},
 {"id":17,"expanded":true,"name":"Paskal previse","order":12,"parentId":9,"scrollX":1216.5,"scrollY":692.25},
 {"id":18,"expanded":true,"name":"Paskal premalo","order":9,"parentId":8,"scrollX":816,"scrollY":624}
@@ -31,4 +32,9 @@ null,
 {"id":9,"expanded":true,"name":"cikloidi","order":9,"parentId":1,"scrollX":0,"scrollY":0},
 {"id":10,"expanded":false,"name":"Dvoriste","order":10,"parentId":1,"scrollX":0,"scrollY":0}
 >>>>>>> Stashed changes
+=======
+{"id":16,"expanded":false,"name":"Paskal perfect","order":9,"parentId":8,"scrollX":811,"scrollY":461.5},
+{"id":17,"expanded":true,"name":"Paskal previse","order":10,"parentId":8,"scrollX":811,"scrollY":461.5},
+{"id":18,"expanded":true,"name":"Paskal premalo","order":11,"parentId":8,"scrollX":811,"scrollY":461.5}
+>>>>>>> parent of 099ced4 (1.1.6)
 ]
