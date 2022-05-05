@@ -18,9 +18,9 @@ null,
 {"id":16,"expanded":true,"name":"Paskal perfect","order":6,"parentId":5,"scrollX":1218,"scrollY":800},
 {"id":17,"expanded":true,"name":"Paskal previse","order":12,"parentId":8,"scrollX":1228.5,"scrollY":748.5},
 {"id":18,"expanded":true,"name":"Paskal premalo","order":7,"parentId":16,"scrollX":1218,"scrollY":810},
-{"id":19,"expanded":true,"name":"cikloidi1","order":18,"parentId":12,"scrollX":1228.5,"scrollY":763.5},
+{"id":19,"expanded":true,"name":"cikloidi1","order":18,"parentId":12,"scrollX":1216.5,"scrollY":763.5},
 {"id":20,"expanded":true,"name":"cikloidi2","order":19,"parentId":19,"scrollX":1228.5,"scrollY":796.5},
-{"id":21,"expanded":true,"name":"cikloidi3","order":20,"parentId":19,"scrollX":1216.5,"scrollY":796.5},
+{"id":21,"expanded":true,"name":"cikloidi3","order":20,"parentId":19,"scrollX":1228.5,"scrollY":796.5},
 {"id":22,"expanded":true,"name":"cikloidi4","order":21,"parentId":19,"scrollX":1216.5,"scrollY":796.5},
 {"id":23,"expanded":true,"name":"cikloidi5","order":22,"parentId":19,"scrollX":1228.5,"scrollY":796.5},
 {"id":24,"expanded":true,"name":"cikloidi6","order":23,"parentId":19,"scrollX":1228.5,"scrollY":796.5},
@@ -30,5 +30,5 @@ null,
 {"id":28,"expanded":true,"name":"Heksaedar","order":24,"parentId":24,"scrollX":1228.5,"scrollY":786},
 {"id":29,"expanded":false,"name":"Kantina","order":27,"parentId":0,"scrollX":816,"scrollY":640},
 {"id":30,"expanded":true,"name":"Cutscene","order":28,"parentId":0,"scrollX":1216.5,"scrollY":691.5},
-{"id":31,"expanded":false,"name":"MAP031","order":30,"parentId":15,"scrollX":816,"scrollY":624}
+{"id":31,"expanded":false,"name":"MAP031","order":30,"parentId":15,"scrollX":1216.5,"scrollY":691.5}
 ]
