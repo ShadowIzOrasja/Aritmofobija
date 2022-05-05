@@ -2,6 +2,6 @@
 null,
 {"id":1,"battlerName":"Custom_1_Battler","characterIndex":0,"characterName":"Custom_1_Walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Custom_1_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":7,"characterName":"pokusavam","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tanjin lik bata","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":5,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Brankica","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"brankica","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"brankica","traits":[],"initialLevel":1,"maxLevel":99,"name":"Brankica","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
