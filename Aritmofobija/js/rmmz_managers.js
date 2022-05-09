@@ -1464,11 +1464,12 @@ SoundManager.playSystemSound = function(n) {
 };
 
 SoundManager.playCursor = function() {
-    this.playSystemSound(0);
+    AudioManager.playStaticSe({"name":"Izbor gore dole","pan":0,"pitch":100,"volume":90});
 };
 
 SoundManager.playOk = function() {
-    this.playSystemSound(1);
+    //this.playSystemSound(1);
+    AudioManager.playStaticSe({"name":"Izbor Enter","pan":0,"pitch":100,"volume":90});
 };
 
 SoundManager.playCancel = function() {
